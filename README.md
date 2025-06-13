@@ -1,4 +1,5 @@
 # Advanced Arduino Frequency Scanner
+#### Author: Bocaletto Luca
 
 This project upgrades the basic pulse‐counting scanner into a **high‐resolution, wide‐range** instrument using Arduino’s Timer1 Input Capture. You’ll get instant period readings, automatic smoothing, dynamic range up to several MHz, and a clean I²C LCD interface.
 
